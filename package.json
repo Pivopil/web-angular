@@ -17,6 +17,7 @@
     "@angular/platform-browser": "~2.4.0",
     "@angular/platform-browser-dynamic": "~2.4.0",
     "@angular/router": "~3.4.0",
+    "@types/node": "^6.0.63",
     "bootstrap": "^3.3.7",
     "core-js": "^2.4.1",
     "rxjs": "5.0.1",
@@ -44,7 +45,7 @@
     "raw-loader": "^0.5.1",
     "rimraf": "^2.5.2",
     "style-loader": "^0.13.1",
-    "typescript": "~2.0.10",
+    "typescript": "~2.2.1",
     "webpack": "2.2.0",
     "webpack-dev-server": "2.2.0-rc.0",
     "webpack-merge": "^2.4.0"
